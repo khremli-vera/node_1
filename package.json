@@ -1,0 +1,23 @@
+{
+  "name": "node_1",
+  "version": "1.0.0",
+  "description": "node task1 part 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khremli-vera/node_1.git"
+  },
+  "keywords": [
+    "polish",
+    "reverse"
+  ],
+  "author": "Vera Khremli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khremli-vera/node_1/issues"
+  },
+  "homepage": "https://github.com/khremli-vera/node_1#readme"
+}
